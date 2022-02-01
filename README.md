@@ -1,6 +1,6 @@
 ### Hola soy Mario Muriel 
 
-- 🔭 Actualmente trabajo en el área de ventas de una distrubuidora de alimentos en Amagá antioquia y la par hago mantenimiento preventivo y correctivo tanto de los sistemas de información como de la red de trabajo. 
+- 🔭 Actualmente trabajo en el área de ventas de una distrubuidora de alimentos en Amagá antioquia y a la par hago mantenimiento preventivo y correctivo tanto de los sistemas de información como de la red de trabajo. 
 - 
 - 🌱Me encuentro aprendiendo desarrollo full stack y tengo nococimientos en java, mysql, bases de la seguridad de la información y auditorias. 
 - 👯 Busco un lugar donde desarrollar mejor mis capacidades, donde pueda aprender y dar mi conocimiento 
